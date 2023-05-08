@@ -1,0 +1,1 @@
+Tricky project involves using __CMD__ and __remote login__ to commit to my repo on Github
